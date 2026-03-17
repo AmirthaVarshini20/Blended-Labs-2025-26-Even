@@ -2,9 +2,8 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: AMIRTHA VARSHINI.V
+* **Register Number**: 212224040021
 
 ---
 
@@ -96,13 +95,11 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Log in to the AWS Management Console and navigate to the EC2 Dashboard to explore sections such as Instances, AMIs, Instance Types, Key Pairs, Security Groups, and Elastic IPs.
+2. Launch a new EC2 instance using Amazon Linux 2 AMI, select the t2.micro instance type, configure the instance name, create/select a key pair, and configure the security group.
+3. Configure the Security Group to allow inbound SSH (Port 22) from my IP address and HTTP (Port 80) from anywhere (0.0.0.0/0).
+4. Connect to the running EC2 instance using SSH with the downloaded key pair and perform basic instance operations such as stop, start, and reboot from the EC2 console.
+5. Monitor the EC2 instance using the Monitoring tab to observe performance metrics, and finally terminate the instance after completing the experiment.
 
 ---
 
@@ -110,19 +107,23 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1264" height="655" alt="image" src="https://github.com/user-attachments/assets/61afb658-24cb-40dc-822f-e138c80439da" />
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1267" height="661" alt="image" src="https://github.com/user-attachments/assets/a208620d-6755-4087-a327-6a1f5b61b4a0" />
+
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1261" height="656" alt="image" src="https://github.com/user-attachments/assets/56558905-2cc0-452d-85ac-f8cf706b2901" />
+
 
 ---
 
