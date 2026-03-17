@@ -2,11 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: AMIRTHA VARSHINI.V
+* **Register Number**: 212224040021
 
----
 
 ## Objective
 
@@ -78,35 +76,42 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
+1. Created an Amazon EBS volume
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+2. Attached the volume to an EC2 instance
 
----
+3. Created a file system on the volume
+
+4. Added a file to volume
+
+5. Created a snapshot of volume
+
+6. Created a new volume from the snapshot
+
+7. Attached and mounted the new volume to the EC2 instance
+
+8. Verified that the file created earlier was on the newly created volume
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EBS Volume Created
 
-(Insert Screenshot Here)
+<img width="1650" height="774" alt="image" src="https://github.com/user-attachments/assets/a7eafcf5-cd52-4bf6-8e92-cffad8c7440d" />
 
----
+<img width="1639" height="754" alt="image" src="https://github.com/user-attachments/assets/617d843b-7f1c-43ff-a774-9cb5124e8f58" />
 
 ### Screenshot 2: EBS Volume Attached to EC2
 
-(Insert Screenshot Here)
+<img width="1588" height="501" alt="image" src="https://github.com/user-attachments/assets/bc363f53-e0b3-4e25-af01-faa35022480a" />
 
----
+<img width="1622" height="698" alt="image" src="https://github.com/user-attachments/assets/42097645-c565-4099-8956-c15c7162d826" />
 
 ### Screenshot 3: Mounted Volume with Data
 
-(Insert Screenshot Here)
+<img width="1642" height="820" alt="image" src="https://github.com/user-attachments/assets/4e6da46c-b747-42cd-819d-b2f717c920e2" />
 
----
+
+
 
 ## Result / Conclusion
 
