@@ -2,9 +2,8 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: AMIRTHA VARSHINI V
+* **Register Number**: 212224040021
 
 ---
 
@@ -82,13 +81,11 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Create a Security Group for RDS
+2. Create a DB Subnet Group
+3. Launch an RDS MySQL DB Instance
+4. Configure Connectivity and Security
+5. Connect Web App to Database and Test
 
 ---
 
@@ -96,22 +93,29 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+
+<img width="1363" height="766" alt="Screenshot 2026-03-18 154017" src="https://github.com/user-attachments/assets/cdd5c97d-3608-4cb3-80cd-8166c1711193" />
+
+
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+
+<img width="1356" height="767" alt="Screenshot 2026-03-18 161157" src="https://github.com/user-attachments/assets/c7be480e-3701-4758-84ef-effc047556a7" />
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+
+![WhatsApp Image 2026-03-19 at 9 32 07 AM](https://github.com/user-attachments/assets/cb32ba4e-9259-4872-843f-74cfdd2f3e4c)
+
 
 ---
 
 ## Result
 
-This experiment demonstrated how to build a database server in AWS using an EC2 instance. By installing and configuring a DBMS, creating a sample database, and testing connectivity, the fundamentals of hosting and managing a cloud-based database server were underst
+This experiment demonstrated how to build a database server in AWS using an EC2 instance. By installing and configuring a DBMS, creating a sample database, and testing connectivity, the fundamentals of hosting and managing a cloud-based database server were understood.
