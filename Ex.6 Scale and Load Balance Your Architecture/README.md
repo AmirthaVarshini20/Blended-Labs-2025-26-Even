@@ -4,7 +4,7 @@
 
 Scale and Load Balance Your Architecture
 ## Author : 
-## your name: AMIRTHA VARSHINI V  
+## Name: AMIRTHA VARSHINI V  
 ## Reg no : 212224040021  
 
 ---
